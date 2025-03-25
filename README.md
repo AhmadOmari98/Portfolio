@@ -4,4 +4,4 @@ The design of the website is clean, modern, and fully responsive, ensuring it wo
 
 The website is designed to highlight my front-end development skills, with a focus on creating smooth animations, intuitive navigation, and a polished look.
 
-Technologies used: HTML, CSS, JavaScript.
+Technologies used: HTML, CSS, JavaScript, Bootstrap.
